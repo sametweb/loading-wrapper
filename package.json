@@ -1,8 +1,12 @@
 {
   "name": "loading-wrapper",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A React component that wraps a tree of components and renders it as a custom loading indicator",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sametweb/loading-wrapper"
+  },
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
   "types": "./lib/esm/index.d.ts",
@@ -21,7 +25,7 @@
     "loading indicator",
     "loading wrapper"
   ],
-  "author": "",
+  "author": "Samet Mutevelli <mutevellisamet@gmail.com> (https://sametmutevelli.com)",
   "license": "ISC",
   "devDependencies": {
     "@types/react": "^17.0.11",
