@@ -1,6 +1,6 @@
 {
   "name": "loading-wrapper",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A React component that wraps a tree of components and renders it as a custom loading indicator",
   "private": false,
   "repository": {
